@@ -1,4 +1,4 @@
-# Data exploration, regression, classification of Climbing data
+# Data Exploration, Regression and Classification of Climbing data
 
 Project which expands on the first coursework of the Methods for Data Science module I took as part of my MSc Applied Mathematics at Imperial College London.
 
