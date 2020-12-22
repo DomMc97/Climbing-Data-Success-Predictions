@@ -1,5 +1,6 @@
 # Data Exploration, Regression and Classification of Climbing data
 
+## Overview
 Project which expands on the first coursework of the Methods for Data Science module I took as part of my MSc Applied Mathematics at Imperial College London.
 
 I worked with a data set that consisted of weather and climbing data of Mount
